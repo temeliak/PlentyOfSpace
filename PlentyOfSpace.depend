@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1520791175 source:/home/miloud/devel/tests/oprngl3/PlentyOfSpace/main.cpp
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+
+1520790917 source:/home/miloud/devel/tests/oprngl3/PlentyOfSpace/src/astre.cpp
+	"astre.h"
+
+1520791664 /home/miloud/devel/tests/oprngl3/PlentyOfSpace/include/astre.h
+	"position.h"
+
+1520790499 source:/home/miloud/devel/tests/oprngl3/PlentyOfSpace/src/Map.cpp
+	"Map.h"
+
+1520791490 /home/miloud/devel/tests/oprngl3/PlentyOfSpace/include/Map.h
+	<string>
+
+1520791385 /home/miloud/devel/tests/oprngl3/PlentyOfSpace/include/position.h
+	<math.h>
+
+1520791502 source:/home/miloud/devel/tests/oprngl3/PlentyOfSpace/src/position.cpp
+	"position.h"
+
